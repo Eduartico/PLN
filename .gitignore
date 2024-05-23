@@ -151,5 +151,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Assignment 2/fine-tuned-distilbert/model.safetensors
+Assignment 2/fine-tuned-fine-tuned-distilbert/model.safetensors
+Assignment 2/fine-tuned-distilbert/optimizer.pt
 Assignment 2/results/checkpoint-500/model.safetensors
 Assignment 2/results/checkpoint-500/optimizer.pt
